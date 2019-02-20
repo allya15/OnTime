@@ -12,7 +12,7 @@ To use this scheduling platform:
 
 * rails s
 
-App will run at `localhost:http://localhost:3000/`
+App will run at `http://localhost:3000/`
 
 ## Stretch Features to work on
 
